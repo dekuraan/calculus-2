@@ -38,3 +38,5 @@ f(a) != f(b) whenever a!=b
 proof
 
 assume a!=b, a is either > or < b
+
+everython
